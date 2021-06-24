@@ -65,14 +65,18 @@ $ docker run -p 8306:3306 mysql
 $docker run -p 3306:3306 mysql
 $docker run -v  /opt/datadir:/var/lib/mysql mysql
 $docker logs <imagename>
+  ```
 
 ## Images
-$docker build .
 
+  ```
+$docker build .
+  ```
   
 # Kubernetes 
 
 ## COMMANDS 
+
 List all namespaces in the cluster
 
 ```console
