@@ -17,6 +17,12 @@ Editions – Community , Enterprise
 
 ![image](https://user-images.githubusercontent.com/34361796/123225650-8abfd780-d4f0-11eb-9047-2343e5869494.png)
 
+![image](https://user-images.githubusercontent.com/34361796/123225828-b9d64900-d4f0-11eb-950d-afc42a44b356.png)
+
+Docker Vs VM
+
+![image](https://user-images.githubusercontent.com/34361796/123225883-c5c20b00-d4f0-11eb-94e2-332e411542a3.png)
+
 
 ## Docker Commands
   ```
