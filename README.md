@@ -56,9 +56,10 @@ $docker run redis
 $docker run redis:4.0 -- tag
 
 Default container port : 5000
-
+  ```
 ## Port mapping and volume mapping
 
+  ```
 $docker run -p 80:5000 <app name>
 
 $ docker run -p 8306:3306 mysql
