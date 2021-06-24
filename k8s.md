@@ -10,17 +10,17 @@
 ![image](https://user-images.githubusercontent.com/34361796/123226274-22252a80-d4f1-11eb-8d7e-b64385eb69e7.png)
 
 
-##Node
+## Node
 
 ![image](https://user-images.githubusercontent.com/34361796/123226309-2b15fc00-d4f1-11eb-8534-5fc3e62b05e5.png)
 
 
-##Cluster
+## Cluster
 
 ![image](https://user-images.githubusercontent.com/34361796/123226330-2fdab000-d4f1-11eb-97aa-f3266f06d7ef.png)
 
 
-##Master
+## Master
 
 ![image](https://user-images.githubusercontent.com/34361796/123226361-3832eb00-d4f1-11eb-9258-5c608bad196a.png)
 
