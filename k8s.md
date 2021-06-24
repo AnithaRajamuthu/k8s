@@ -39,6 +39,20 @@
 
 ![image](https://user-images.githubusercontent.com/34361796/123226516-5e588b00-d4f1-11eb-873b-8620725ea9a1.png)
 
+Oracle VirtualBox:  https://www.virtualbox.org/
+
+Vagrant: https://www.vagrantup.com/
+
+Link to download VM images: http://osboxes.org/
+
+Link to kubeadm installation instructions: https://kubernetes.io/docs/setup/independent/install-kubeadm/
+
+
+The link to Vagrant file:
+https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+
+If you are new to VirtualBox or Vagrant, please follow this pre-requisites course to learn about it: https://www.youtube.com/watch?v=Wvf0mBNGjXY
+
 
   ## YAML in k8s
 
@@ -983,4 +997,10 @@ spec:
       type: elasticsearch
 ```
 
+## k8s on GCP
+  https://cloud.google.com/free/
+  https://cloud.google.com/kubernetes-engine/docs/
 
+  ## k8s References
+  https://github.com/mmumshad/kubernetes-the-hard-way
+  
