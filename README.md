@@ -1,18 +1,18 @@
 # Docker 
 
-'''Intro
+```Intro
 
 Tool used to automate the deployment of applications in light weight containers so that applications can 
 work efficiently in different environment
 
 
-'''Setting up Docker
+```Setting up Docker
 Editions – Community , Enterprise
 https://www.docker.com/products/docker-desktop
 https://hub.docker.com/
 
 
-'''Docker Commands
+```Docker Commands
 
 $docker run nginx
 $docker pull nginx
