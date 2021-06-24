@@ -91,3 +91,20 @@ run
  ## Docker Runtime
  
  https://docs.docker.com/config/containers/resource_constraints/
+ 
+ ## Docker network
+ 
+ $docker network ls
+ 
+ ## Docker swarm
+ 
+ $docker service create --replicas=100 nodejs
+ $docker service create --replicas=3 -p 8080:80 ani-web-server
+ $docker swarm --init 
+ 
+ ## k8s
+ 
+ kubectl run --replicas=10 ani-web-server
+ kubectl scale --replicas=10 ani-web-server
+ kubectl rolling-update ani-web-server --image=ani-web-server:2
+ kubectl rolling-update ani-web-server --rollback
