@@ -141,7 +141,7 @@ Service | v1
 ReplicaSet | apps/v1
 Deployment | apps/v1
 
-```console
+ ```console
 me@k8s:~$ kubectl create -f pod-definition.yml
 ```
 
