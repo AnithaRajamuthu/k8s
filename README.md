@@ -1,18 +1,18 @@
 # Docker 
 
-```Intro
+## Introduction
 
 Tool used to automate the deployment of applications in light weight containers so that applications can 
 work efficiently in different environment
 
 
-```Setting up Docker
+## Setting up Docker
 Editions – Community , Enterprise
 https://www.docker.com/products/docker-desktop
 https://hub.docker.com/
 
 
-```Docker Commands
+## Docker Commands
 
 $docker run nginx
 $docker pull nginx
@@ -52,7 +52,7 @@ $docker run redis:4.0 -- tag
 
 Default container port : 5000
 
-Port mapping and volume mapping
+## Port mapping and volume mapping
 
 $docker run -p 80:5000 <app name>
 
@@ -60,6 +60,7 @@ $ docker run -p 8306:3306 mysql
 $docker run -p 3306:3306 mysql
 $docker run -v  /opt/datadir:/var/lib/mysql mysql
 $docker logs <imagename>
-Images
+
+## Images
 $docker build .
  
