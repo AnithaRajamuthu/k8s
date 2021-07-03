@@ -115,7 +115,7 @@ NAME                       DESIRED   CURRENT   READY   AGE
 replicaset.apps/myapp-rs   8         8         8       6h29m
 ```
 
-## PODS YML FILE DEFINITION
+## PODS YAML FILE DEFINITION
 
 ```yaml
 apiVersion: v1
