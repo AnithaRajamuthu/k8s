@@ -2,9 +2,9 @@
 
 ## About k8s Repository
 
-This repo consists of documentation and references against Docker , K8s which i have explored through multiple channels online 
-Has references and Notes prepared against Docker,k8s for beginners by Mumshad in Udemy
-quick k8s cheat sheet for developer reference
+This repo consists of documentation and references against Docker , K8s which i have explored through multiple channels online and self taught.
+Holds references and Notes prepared against Docker,k8s for beginners by Mumshad in Udemy
+Quick k8s cheat sheet prepared for any developer quick reference
 
 My Journey towards platform learning most basic for cloud learnings.
 
