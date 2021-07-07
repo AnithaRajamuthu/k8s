@@ -1,0 +1,1 @@
+# CKAD Readiness Steps followed
