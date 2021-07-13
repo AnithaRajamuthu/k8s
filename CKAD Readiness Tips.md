@@ -1,5 +1,6 @@
 # CKAD Readiness Steps followed
 
+### Udemy CKAD Best course by Mumshad - https://vmware.udemy.com/course/certified-kubernetes-application-developer/learn/lecture/12299352#overview
 ### CNCF Certification Reference https://www.cncf.io/certification/ckad/
 ### Official CKAD Curriculum Repo https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_V1.21.pdf
 ### Official CKAD Exam HandBook https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook
