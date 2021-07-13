@@ -22,7 +22,7 @@ https://kubernetes.io/blog/
    I have uploaded my bookmark under this git repo (If it helps anyone for wuick refernce)
 ### Exam Duration : 2 hrs . Total Questions : 19
 
-### Only Mantra to success : Practice ! Practice ! Practice !This will keep us perfect fit for exam 
+### Only Mantra to success : Practice ! Practice ! Practice !This will keep you perfect fit for exam 
 
 ### Follow Imperative commands during exam for quick progress and to save time !
 
