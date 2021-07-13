@@ -23,6 +23,8 @@ https://kubernetes.io/blog/
 
 ### Only Mantra to success : Practice ! Practice ! Practice !This will keep us perfect fit for exam 
 
+### Follow Imperative commands during exam for quick progress and to save time !
+
 ### Sleep well day before exam to smash it !
 
 
