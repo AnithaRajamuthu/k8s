@@ -14,7 +14,7 @@ Followed below steps,
 2. kube.academy learning platform provided by VMware
 3. Additional self references across internet
 4. CKAD practise test - PRACTICE! Atleast 2-3 times
-5. Appeared for CKAD exam - Exam Tips 
+5. Appeared for CKAD exam - Exam Tips Refer https://github.com/AnithaRajamuthu/k8s/blob/main/CKAD%20Readiness%20Tips.md
 6. Advanced k8s learning 
 7. CKA practise test
 8. Appear for CKA
