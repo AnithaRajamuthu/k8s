@@ -13,13 +13,13 @@
 ### Exam simulator provided by CNCF 
 https://killer.sh/dashboard
 
-### Open Book Link References - allowed during exam .Believe me Just k8s.io/docs will sffice
+### Open Book Link References - allowed during exam .Believe me Just k8s.io/docs will suffice
 https://github.com/kubernetes
 https://kubernetes.io/docs
 https://kubernetes.io/blog/
 
 ### Keep bookmarks saved for quick reference under k8s docs reference
-   I have uploaded my bookmark under this git repo (If it helps anyone for wuick refernce)
+   I have uploaded my bookmark under this git repo (If it helps anyone for quick refernce)
 ### Exam Duration : 2 hrs . Total Questions : 19
 
 ### Only Mantra to success : Practice ! Practice ! Practice !This will keep you perfect fit for exam 
